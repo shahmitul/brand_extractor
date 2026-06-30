@@ -1,0 +1,86 @@
+{
+  "target_brand":
+  {
+    "canonical": "Pantene",
+    "aliases":
+    [
+      "Pantene",
+      "Pantine",
+      "بانتين",
+      "بانتيـن"
+    ]
+  },
+  "competitors":
+  [
+    {
+      "canonical": "Always",
+      "aliases":
+      [
+        "Always",
+        "ألويز",
+        "اولويز"
+      ]
+    },
+    {
+      "canonical": "Simple",
+      "aliases":
+      [
+        "Simple",
+        "سيمبل"
+      ]
+    },
+    {
+      "canonical": "Clear",
+      "aliases":
+      [
+        "Clear",
+        "كلير"
+      ]
+    },
+    {
+      "canonical": "Dove",
+      "aliases":
+      [
+        "Dove",
+        "دوف"
+      ]
+    },
+    {
+      "canonical": "Head & Shoulders",
+      "aliases":
+      [
+        "Head & Shoulders",
+        "Head and Shoulders",
+        "هيد آند شولدرز",
+        "هيد اند شولدرز"
+      ]
+    },
+    {
+      "canonical": "Herbal Essences",
+      "aliases":
+      [
+        "Herbal Essences",
+        "هربل اسنسز"
+      ]
+    },
+    {
+      "canonical": "Sunsilk",
+      "aliases":
+      [
+        "Sunsilk",
+        "صانسيلك",
+        "سن سيلك"
+      ]
+    },
+    {
+      "canonical": "TRESemmé",
+      "aliases":
+      [
+        "TRESemmé",
+        "TRESemme",
+        "تريسمي"
+      ]
+    }
+  ]
+}
+

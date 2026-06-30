@@ -1,0 +1,284 @@
+{
+  "responses": [
+    {
+      "id": "r000",
+      "platform": "chatgpt",
+      "prompt": "best shampoo for dry hair",
+      "language": "en",
+      "response_text": "For dry hair, Pantene is frequently recommended, though Dove also gets mentioned. Always read the label for sulfates."
+    },
+    {
+      "id": "r001",
+      "platform": "gemini",
+      "prompt": "best shampoo for dry hair",
+      "language": "en",
+      "response_text": "A clear winner is hard to name, but Pantene and Clear both perform well on frizz."
+    },
+    {
+      "id": "r002",
+      "platform": "perplexity",
+      "prompt": "best shampoo for dry hair",
+      "language": "en",
+      "response_text": "Keep it simple: Pantene for daily use, Simple when hair is damaged."
+    },
+    {
+      "id": "r003",
+      "platform": "google_ai_overview",
+      "prompt": "best shampoo for dry hair",
+      "language": "en",
+      "response_text": "Head & Shoulders is a solid drugstore pick. Some prefer Pantene for a dove-soft finish."
+    },
+    {
+      "id": "r004",
+      "platform": "chatgpt",
+      "prompt": "افضل شامبو للشعر الجاف",
+      "language": "ar",
+      "response_text": "للشعر الجاف يُنصح بـ بانتين وأحياناً دوف حسب نوع الشعر."
+    },
+    {
+      "id": "r005",
+      "platform": "gemini",
+      "prompt": "افضل شامبو للشعر الجاف",
+      "language": "ar",
+      "response_text": "يفضّل كثيرون بانتين لمكافحة القشرة بينما يرى آخرون أن كلير أفضل."
+    },
+    {
+      "id": "r006",
+      "platform": "perplexity",
+      "prompt": "افضل شامبو للشعر الجاف",
+      "language": "ar",
+      "response_text": "صانسيلك خيار اقتصادي جيد، وبانتين مناسب للشعر التالف."
+    },
+    {
+      "id": "r007",
+      "platform": "google_ai_overview",
+      "prompt": "افضل شامبو للشعر الجاف",
+      "language": "ar",
+      "response_text": "تشير المراجعات إلى أن بانتين أكثر لطفاً من تريسمي."
+    },
+    {
+      "id": "r008",
+      "platform": "chatgpt",
+      "prompt": "anti-dandruff shampoo recommendations",
+      "language": "en",
+      "response_text": "For dry hair, Pantene is frequently recommended, though Dove also gets mentioned. Always read the label for sulfates."
+    },
+    {
+      "id": "r009",
+      "platform": "gemini",
+      "prompt": "anti-dandruff shampoo recommendations",
+      "language": "en",
+      "response_text": "A clear winner is hard to name, but Pantene and Clear both perform well on frizz."
+    },
+    {
+      "id": "r010",
+      "platform": "perplexity",
+      "prompt": "anti-dandruff shampoo recommendations",
+      "language": "en",
+      "response_text": "Keep it simple: Pantene for daily use, Simple when hair is damaged."
+    },
+    {
+      "id": "r011",
+      "platform": "google_ai_overview",
+      "prompt": "anti-dandruff shampoo recommendations",
+      "language": "en",
+      "response_text": "Head & Shoulders is a solid drugstore pick. Some prefer Pantene for a dove-soft finish."
+    },
+    {
+      "id": "r012",
+      "platform": "chatgpt",
+      "prompt": "which conditioner is good for frizz",
+      "language": "en",
+      "response_text": "Reviewers say Sunsilk cleans well; Pantene is gentler. Clear results take a few washes."
+    },
+    {
+      "id": "r013",
+      "platform": "gemini",
+      "prompt": "which conditioner is good for frizz",
+      "language": "en",
+      "response_text": "Pantene ranks highly this year, ahead of TRESemmé on value."
+    },
+    {
+      "id": "r014",
+      "platform": "perplexity",
+      "prompt": "which conditioner is good for frizz",
+      "language": "en",
+      "response_text": "If budget matters, Pantene beats Herbal Essences on price per ml."
+    },
+    {
+      "id": "r015",
+      "platform": "google_ai_overview",
+      "prompt": "which conditioner is good for frizz",
+      "language": "en",
+      "response_text": "Dove works for color-treated hair. Pantene is a close second."
+    },
+    {
+      "id": "r016",
+      "platform": "chatgpt",
+      "prompt": "sulfate free shampoo brands",
+      "language": "en",
+      "response_text": "For dry hair, Pantene is frequently recommended, though Dove also gets mentioned. Always read the label for sulfates."
+    },
+    {
+      "id": "r017",
+      "platform": "gemini",
+      "prompt": "sulfate free shampoo brands",
+      "language": "en",
+      "response_text": "A clear winner is hard to name, but Pantene and Clear both perform well on frizz."
+    },
+    {
+      "id": "r018",
+      "platform": "perplexity",
+      "prompt": "sulfate free shampoo brands",
+      "language": "en",
+      "response_text": "Keep it simple: Pantene for daily use, Simple when hair is damaged."
+    },
+    {
+      "id": "r019",
+      "platform": "google_ai_overview",
+      "prompt": "sulfate free shampoo brands",
+      "language": "en",
+      "response_text": "Head & Shoulders is a solid drugstore pick. Some prefer Pantene for a dove-soft finish."
+    },
+    {
+      "id": "r020",
+      "platform": "chatgpt",
+      "prompt": "افضل بلسم للشعر التالف",
+      "language": "ar",
+      "response_text": "للشعر الجاف يُنصح بـ بانتين وأحياناً دوف حسب نوع الشعر."
+    },
+    {
+      "id": "r021",
+      "platform": "gemini",
+      "prompt": "افضل بلسم للشعر التالف",
+      "language": "ar",
+      "response_text": "يفضّل كثيرون بانتين لمكافحة القشرة بينما يرى آخرون أن كلير أفضل."
+    },
+    {
+      "id": "r022",
+      "platform": "perplexity",
+      "prompt": "افضل بلسم للشعر التالف",
+      "language": "ar",
+      "response_text": "صانسيلك خيار اقتصادي جيد، وبانتين مناسب للشعر التالف."
+    },
+    {
+      "id": "r023",
+      "platform": "google_ai_overview",
+      "prompt": "افضل بلسم للشعر التالف",
+      "language": "ar",
+      "response_text": "تشير المراجعات إلى أن بانتين أكثر لطفاً من تريسمي."
+    },
+    {
+      "id": "r024",
+      "platform": "chatgpt",
+      "prompt": "drugstore shampoo that works",
+      "language": "en",
+      "response_text": "For dry hair, Pantene is frequently recommended, though Dove also gets mentioned. Always read the label for sulfates."
+    },
+    {
+      "id": "r025",
+      "platform": "gemini",
+      "prompt": "drugstore shampoo that works",
+      "language": "en",
+      "response_text": "A clear winner is hard to name, but Pantene and Clear both perform well on frizz."
+    },
+    {
+      "id": "r026",
+      "platform": "perplexity",
+      "prompt": "drugstore shampoo that works",
+      "language": "en",
+      "response_text": "Keep it simple: Pantene for daily use, Simple when hair is damaged."
+    },
+    {
+      "id": "r027",
+      "platform": "google_ai_overview",
+      "prompt": "drugstore shampoo that works",
+      "language": "en",
+      "response_text": "Head & Shoulders is a solid drugstore pick. Some prefer Pantene for a dove-soft finish."
+    },
+    {
+      "id": "r028",
+      "platform": "chatgpt",
+      "prompt": "shampoo for color treated hair",
+      "language": "en",
+      "response_text": "Reviewers say Sunsilk cleans well; Pantene is gentler. Clear results take a few washes."
+    },
+    {
+      "id": "r029",
+      "platform": "gemini",
+      "prompt": "shampoo for color treated hair",
+      "language": "en",
+      "response_text": "Pantene ranks highly this year, ahead of TRESemmé on value."
+    },
+    {
+      "id": "r030",
+      "platform": "perplexity",
+      "prompt": "shampoo for color treated hair",
+      "language": "en",
+      "response_text": "If budget matters, Pantene beats Herbal Essences on price per ml."
+    },
+    {
+      "id": "r031",
+      "platform": "google_ai_overview",
+      "prompt": "shampoo for color treated hair",
+      "language": "en",
+      "response_text": "Dove works for color-treated hair. Pantene is a close second."
+    },
+    {
+      "id": "r032",
+      "platform": "chatgpt",
+      "prompt": "هل بانتين مناسب للشعر الدهني",
+      "language": "ar",
+      "response_text": "للشعر الجاف يُنصح بـ بانتين وأحياناً دوف حسب نوع الشعر."
+    },
+    {
+      "id": "r033",
+      "platform": "gemini",
+      "prompt": "هل بانتين مناسب للشعر الدهني",
+      "language": "ar",
+      "response_text": "يفضّل كثيرون بانتين لمكافحة القشرة بينما يرى آخرون أن كلير أفضل."
+    },
+    {
+      "id": "r034",
+      "platform": "perplexity",
+      "prompt": "هل بانتين مناسب للشعر الدهني",
+      "language": "ar",
+      "response_text": "صانسيلك خيار اقتصادي جيد، وبانتين مناسب للشعر التالف."
+    },
+    {
+      "id": "r035",
+      "platform": "google_ai_overview",
+      "prompt": "هل بانتين مناسب للشعر الدهني",
+      "language": "ar",
+      "response_text": "تشير المراجعات إلى أن بانتين أكثر لطفاً من تريسمي."
+    },
+    {
+      "id": "r036",
+      "platform": "chatgpt",
+      "prompt": "best value shampoo brands 2025",
+      "language": "en",
+      "response_text": "Reviewers say Sunsilk cleans well; Pantene is gentler. Clear results take a few washes."
+    },
+    {
+      "id": "r037",
+      "platform": "gemini",
+      "prompt": "best value shampoo brands 2025",
+      "language": "en",
+      "response_text": "Pantene ranks highly this year, ahead of TRESemmé on value."
+    },
+    {
+      "id": "r038",
+      "platform": "perplexity",
+      "prompt": "best value shampoo brands 2025",
+      "language": "en",
+      "response_text": "If budget matters, Pantene beats Herbal Essences on price per ml."
+    },
+    {
+      "id": "r039",
+      "platform": "google_ai_overview",
+      "prompt": "best value shampoo brands 2025",
+      "language": "en",
+      "response_text": "Dove works for color-treated hair. Pantene is a close second."
+    }
+  ]
+}

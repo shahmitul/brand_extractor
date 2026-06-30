@@ -1,0 +1,566 @@
+{
+  "gold": {
+    "r000": [
+      {
+        "surface": "Pantene",
+        "canonical": "Pantene",
+        "start": 14,
+        "end": 21
+      },
+      {
+        "surface": "Dove",
+        "canonical": "Dove",
+        "start": 56,
+        "end": 60
+      }
+    ],
+    "r001": [
+      {
+        "surface": "Pantene",
+        "canonical": "Pantene",
+        "start": 36,
+        "end": 43
+      },
+      {
+        "surface": "Clear",
+        "canonical": "Clear",
+        "start": 48,
+        "end": 53
+      }
+    ],
+    "r002": [
+      {
+        "surface": "Pantene",
+        "canonical": "Pantene",
+        "start": 16,
+        "end": 23
+      },
+      {
+        "surface": "Simple",
+        "canonical": "Simple",
+        "start": 39,
+        "end": 45
+      }
+    ],
+    "r003": [
+      {
+        "surface": "Head & Shoulders",
+        "canonical": "Head & Shoulders",
+        "start": 0,
+        "end": 16
+      },
+      {
+        "surface": "Pantene",
+        "canonical": "Pantene",
+        "start": 56,
+        "end": 63
+      }
+    ],
+    "r004": [
+      {
+        "surface": "بانتين",
+        "canonical": "Pantene",
+        "start": 21,
+        "end": 27
+      },
+      {
+        "surface": "دوف",
+        "canonical": "Dove",
+        "start": 37,
+        "end": 40
+      }
+    ],
+    "r005": [
+      {
+        "surface": "بانتين",
+        "canonical": "Pantene",
+        "start": 13,
+        "end": 19
+      },
+      {
+        "surface": "كلير",
+        "canonical": "Clear",
+        "start": 54,
+        "end": 58
+      }
+    ],
+    "r006": [
+      {
+        "surface": "صانسيلك",
+        "canonical": "Sunsilk",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "surface": "بانتين",
+        "canonical": "Pantene",
+        "start": 27,
+        "end": 33
+      }
+    ],
+    "r007": [
+      {
+        "surface": "بانتين",
+        "canonical": "Pantene",
+        "start": 22,
+        "end": 28
+      },
+      {
+        "surface": "تريسمي",
+        "canonical": "TRESemmé",
+        "start": 43,
+        "end": 49
+      }
+    ],
+    "r008": [
+      {
+        "surface": "Pantene",
+        "canonical": "Pantene",
+        "start": 14,
+        "end": 21
+      },
+      {
+        "surface": "Dove",
+        "canonical": "Dove",
+        "start": 56,
+        "end": 60
+      }
+    ],
+    "r009": [
+      {
+        "surface": "Pantene",
+        "canonical": "Pantene",
+        "start": 36,
+        "end": 43
+      },
+      {
+        "surface": "Clear",
+        "canonical": "Clear",
+        "start": 48,
+        "end": 53
+      }
+    ],
+    "r010": [
+      {
+        "surface": "Pantene",
+        "canonical": "Pantene",
+        "start": 16,
+        "end": 23
+      },
+      {
+        "surface": "Simple",
+        "canonical": "Simple",
+        "start": 39,
+        "end": 45
+      }
+    ],
+    "r011": [
+      {
+        "surface": "Head & Shoulders",
+        "canonical": "Head & Shoulders",
+        "start": 0,
+        "end": 16
+      },
+      {
+        "surface": "Pantene",
+        "canonical": "Pantene",
+        "start": 56,
+        "end": 63
+      }
+    ],
+    "r012": [
+      {
+        "surface": "Sunsilk",
+        "canonical": "Sunsilk",
+        "start": 14,
+        "end": 21
+      },
+      {
+        "surface": "Pantene",
+        "canonical": "Pantene",
+        "start": 35,
+        "end": 42
+      }
+    ],
+    "r013": [
+      {
+        "surface": "Pantene",
+        "canonical": "Pantene",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "surface": "TRESemmé",
+        "canonical": "TRESemmé",
+        "start": 41,
+        "end": 49
+      }
+    ],
+    "r014": [
+      {
+        "surface": "Pantene",
+        "canonical": "Pantene",
+        "start": 19,
+        "end": 26
+      },
+      {
+        "surface": "Herbal Essences",
+        "canonical": "Herbal Essences",
+        "start": 33,
+        "end": 48
+      }
+    ],
+    "r015": [
+      {
+        "surface": "Dove",
+        "canonical": "Dove",
+        "start": 0,
+        "end": 4
+      },
+      {
+        "surface": "Pantene",
+        "canonical": "Pantene",
+        "start": 35,
+        "end": 42
+      }
+    ],
+    "r016": [
+      {
+        "surface": "Pantene",
+        "canonical": "Pantene",
+        "start": 14,
+        "end": 21
+      },
+      {
+        "surface": "Dove",
+        "canonical": "Dove",
+        "start": 56,
+        "end": 60
+      }
+    ],
+    "r017": [
+      {
+        "surface": "Pantene",
+        "canonical": "Pantene",
+        "start": 36,
+        "end": 43
+      },
+      {
+        "surface": "Clear",
+        "canonical": "Clear",
+        "start": 48,
+        "end": 53
+      }
+    ],
+    "r018": [
+      {
+        "surface": "Pantene",
+        "canonical": "Pantene",
+        "start": 16,
+        "end": 23
+      },
+      {
+        "surface": "Simple",
+        "canonical": "Simple",
+        "start": 39,
+        "end": 45
+      }
+    ],
+    "r019": [
+      {
+        "surface": "Head & Shoulders",
+        "canonical": "Head & Shoulders",
+        "start": 0,
+        "end": 16
+      },
+      {
+        "surface": "Pantene",
+        "canonical": "Pantene",
+        "start": 56,
+        "end": 63
+      }
+    ],
+    "r020": [
+      {
+        "surface": "بانتين",
+        "canonical": "Pantene",
+        "start": 21,
+        "end": 27
+      },
+      {
+        "surface": "دوف",
+        "canonical": "Dove",
+        "start": 37,
+        "end": 40
+      }
+    ],
+    "r021": [
+      {
+        "surface": "بانتين",
+        "canonical": "Pantene",
+        "start": 13,
+        "end": 19
+      },
+      {
+        "surface": "كلير",
+        "canonical": "Clear",
+        "start": 54,
+        "end": 58
+      }
+    ],
+    "r022": [
+      {
+        "surface": "صانسيلك",
+        "canonical": "Sunsilk",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "surface": "بانتين",
+        "canonical": "Pantene",
+        "start": 27,
+        "end": 33
+      }
+    ],
+    "r023": [
+      {
+        "surface": "بانتين",
+        "canonical": "Pantene",
+        "start": 22,
+        "end": 28
+      },
+      {
+        "surface": "تريسمي",
+        "canonical": "TRESemmé",
+        "start": 43,
+        "end": 49
+      }
+    ],
+    "r024": [
+      {
+        "surface": "Pantene",
+        "canonical": "Pantene",
+        "start": 14,
+        "end": 21
+      },
+      {
+        "surface": "Dove",
+        "canonical": "Dove",
+        "start": 56,
+        "end": 60
+      }
+    ],
+    "r025": [
+      {
+        "surface": "Pantene",
+        "canonical": "Pantene",
+        "start": 36,
+        "end": 43
+      },
+      {
+        "surface": "Clear",
+        "canonical": "Clear",
+        "start": 48,
+        "end": 53
+      }
+    ],
+    "r026": [
+      {
+        "surface": "Pantene",
+        "canonical": "Pantene",
+        "start": 16,
+        "end": 23
+      },
+      {
+        "surface": "Simple",
+        "canonical": "Simple",
+        "start": 39,
+        "end": 45
+      }
+    ],
+    "r027": [
+      {
+        "surface": "Head & Shoulders",
+        "canonical": "Head & Shoulders",
+        "start": 0,
+        "end": 16
+      },
+      {
+        "surface": "Pantene",
+        "canonical": "Pantene",
+        "start": 56,
+        "end": 63
+      }
+    ],
+    "r028": [
+      {
+        "surface": "Sunsilk",
+        "canonical": "Sunsilk",
+        "start": 14,
+        "end": 21
+      },
+      {
+        "surface": "Pantene",
+        "canonical": "Pantene",
+        "start": 35,
+        "end": 42
+      }
+    ],
+    "r029": [
+      {
+        "surface": "Pantene",
+        "canonical": "Pantene",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "surface": "TRESemmé",
+        "canonical": "TRESemmé",
+        "start": 41,
+        "end": 49
+      }
+    ],
+    "r030": [
+      {
+        "surface": "Pantene",
+        "canonical": "Pantene",
+        "start": 19,
+        "end": 26
+      },
+      {
+        "surface": "Herbal Essences",
+        "canonical": "Herbal Essences",
+        "start": 33,
+        "end": 48
+      }
+    ],
+    "r031": [
+      {
+        "surface": "Dove",
+        "canonical": "Dove",
+        "start": 0,
+        "end": 4
+      },
+      {
+        "surface": "Pantene",
+        "canonical": "Pantene",
+        "start": 35,
+        "end": 42
+      }
+    ],
+    "r032": [
+      {
+        "surface": "بانتين",
+        "canonical": "Pantene",
+        "start": 21,
+        "end": 27
+      },
+      {
+        "surface": "دوف",
+        "canonical": "Dove",
+        "start": 37,
+        "end": 40
+      }
+    ],
+    "r033": [
+      {
+        "surface": "بانتين",
+        "canonical": "Pantene",
+        "start": 13,
+        "end": 19
+      },
+      {
+        "surface": "كلير",
+        "canonical": "Clear",
+        "start": 54,
+        "end": 58
+      }
+    ],
+    "r034": [
+      {
+        "surface": "صانسيلك",
+        "canonical": "Sunsilk",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "surface": "بانتين",
+        "canonical": "Pantene",
+        "start": 27,
+        "end": 33
+      }
+    ],
+    "r035": [
+      {
+        "surface": "بانتين",
+        "canonical": "Pantene",
+        "start": 22,
+        "end": 28
+      },
+      {
+        "surface": "تريسمي",
+        "canonical": "TRESemmé",
+        "start": 43,
+        "end": 49
+      }
+    ],
+    "r036": [
+      {
+        "surface": "Sunsilk",
+        "canonical": "Sunsilk",
+        "start": 14,
+        "end": 21
+      },
+      {
+        "surface": "Pantene",
+        "canonical": "Pantene",
+        "start": 35,
+        "end": 42
+      }
+    ],
+    "r037": [
+      {
+        "surface": "Pantene",
+        "canonical": "Pantene",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "surface": "TRESemmé",
+        "canonical": "TRESemmé",
+        "start": 41,
+        "end": 49
+      }
+    ],
+    "r038": [
+      {
+        "surface": "Pantene",
+        "canonical": "Pantene",
+        "start": 19,
+        "end": 26
+      },
+      {
+        "surface": "Herbal Essences",
+        "canonical": "Herbal Essences",
+        "start": 33,
+        "end": 48
+      }
+    ],
+    "r039": [
+      {
+        "surface": "Dove",
+        "canonical": "Dove",
+        "start": 0,
+        "end": 4
+      },
+      {
+        "surface": "Pantene",
+        "canonical": "Pantene",
+        "start": 35,
+        "end": 42
+      }
+    ]
+  }
+}
+
+
