@@ -32,9 +32,8 @@ I ran the extractor against the provided `gold_key.json` ground truth.
 *   **Recall (0.95):** I missed a few mentions. This mostly happened in the Arabic responses where the spelling or elongation (Kashida) didn't perfectly match the aliases provided in the `brands.json` file.
 
 ## 4. Risks & Future Improvements
-*   **Scaling:** Right now, the code loops through every brand one by one. If we had 5,000 brands, this would be very slow. In the future, I would use an algorithm like **Aho-Corasick** (via the `FlashText` library) to find all brands in a single pass through the text.
-*   **Better Arabic Support:** Arabic is a complex language where "and," "the," and "with" are often attached to the start of the brand name. Using a dedicated Arabic NLP tool like `CamelTools` would make the extraction much more robust.
-*   **Open-Set Discovery:** Currently, if a brand isn't in our JSON file, we can't find it. I would eventually add a Named Entity Recognition (NER) model to detect *any* word that looks like a brand based on its surrounding context, helping us find new competitors automatically.
+*   **Scaling:** Right now, the code loops through every brand one by one. If we had 5,000 brands, this would be very slow. 
+*   **Better Arabic Support:** Arabic is a complex language where "and," "the," and "with" are often attached to the start of the brand name. 
 
 ## 5. Summary of Tradeoffs
 Because I had a 3-5 hour window, I prioritized **Precision** over trying to find every possible spelling variation. In brand tracking, it is usually better to provide 100% accurate data than to include "guesses" that might be wrong. I also chose `spaCy` because it is lightweight and fast compared to using a massive AI model like BERT or GPT for a simple extraction task.
