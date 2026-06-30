@@ -16,7 +16,6 @@ class BrandExtractor:
         self.aliases = []
         self._prepare_brand_data(brands_data)
         
-        # Phrases where common-word brands are almost never the brand
         self.neg_patterns = [
             r"keep it simple",
             r"clear winner",
@@ -33,7 +32,6 @@ class BrandExtractor:
                 self.brand_lookup[alias.lower()] = canonical
                 self.aliases.append(alias)
         
-        # Match longest aliases first (e.g., 'Head & Shoulders' before 'Head')
         self.aliases.sort(key=len, reverse=True)
 
     def _is_valid_mention(self, text: str, start: int, end: int, alias: str) -> bool:
